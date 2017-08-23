@@ -8,6 +8,7 @@ end
 #Gem Additions Below
 gem 'haml'
 gem 'coffee-script-source', '1.8.0'
+gem 'simple_form', '~> 3.5'
 #Gem Additions Above
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
