@@ -13,6 +13,7 @@ gem 'jquery-rails'
 gem 'cocoon'
 gem 'bootstrap-sass'
 gem 'paperclip'
+gem 'devise'
 #Gem Additions Above
 
 gem 'rails', '~> 5.1.3'
