@@ -11,6 +11,8 @@ gem 'coffee-script-source', '1.8.0'
 gem 'simple_form'
 gem 'jquery-rails'
 gem 'cocoon'
+gem 'bootstrap-sass'
+gem 'paperclip'
 #Gem Additions Above
 
 gem 'rails', '~> 5.1.3'
